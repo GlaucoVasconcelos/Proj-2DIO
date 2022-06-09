@@ -2,4 +2,4 @@
 
 #Recursos do CSS3
 
-#Brincando com as cores!
+#Brincando com as cores
