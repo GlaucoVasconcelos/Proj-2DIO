@@ -2,4 +2,4 @@
 
 #Recursos do CSS3
 
-#Misturando as cores
+#Misturando ás cores
